@@ -1,3 +1,6 @@
+#autoclikcer to beat the windowsverson of the game "piano-tiles"
+
+
 from PIL import ImageGrab as ig
 import numpy as np
 import cv2
