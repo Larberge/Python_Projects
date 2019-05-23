@@ -21,8 +21,6 @@ def newImg(h):
     return pxl_array
 
 
-
-
 go = False
 last_pressed = None
 
